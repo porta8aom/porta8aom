@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+# 👋สวัสดี👋
+### 😘 ผมชื่อเพชรเรียนอยู่โรงเรียนสาธิตมหาวิทยาลัยราชภัฏอุดรธานี (ม.3) มชอบการเขียนเว็บ < HTML CSS JAVA > นี่คือ GitHub Profile ของผมนะครับ
+### 👉(https://www.youtube.com/channel/UCdZC4oScmOL3MTqsNkULZ6A?view_as=subscriber)
+### 👉(https://www.facebook.com/profile.php?id=100012745818402)
+### 👉 (https://www.instagram.com/wuttisok/?hl=th)
+### น่าจะแค่นี้แหละ
+
+
+
+
+
 <!--
 **porta8aom/porta8aom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
